@@ -6,7 +6,45 @@
 
 
 
-🙋‍♀️ A short introduction -Final project for our DCI Web Development Course.  We are building a platform on which users can learn about music by creating their own compositions.  The app will support learning, writing, recording, and file sharing with other users.
+🙋‍♀️ A short introduction -Final project for our DCI Web Development Course.  We are building a platform on which users can learn about music by creating their own compositions.  The app will support learning, writing, recording, and file sharing with other users.Online Webapplication to learn and or playing a Synthesizer with different Synthiesounds like: Sine, Saw, Triangle or Squarewaves:
+https://de.wikipedia.org/wiki/Waveform
+
+--> Start the Application with REACT:
+	   Install Node Modules
+		  - npm i
+	   Start Application
+		  - npm start
+
+## Midikeyboard
+
+Piano:
+	- audioContext https://developer.mozilla.org/en-US/docs/Web/API/AudioContext
+	- svg PianoUI
+	- using JS Classes 
+	- using functional Components
+	- injection between JSClasses and functional Components
+	- hooks: useRef, useEffect, useState
+
+Filestructure:
+	- Piano.js is the UI and need some imports:
+		 - ChannelKeyMap.js:
+			ChannelKeyMap is a map with all notes and midisignals.
+
+		 - AudioManager.js:
+		 	Init audioContext, setting sound Types (Waveforms), Velocity, noteON and noteOff
+
+		 - MidiKeyboard.js:
+		 	Controlling your Hardware Devices and connecting to the Browser
+
+FUNCTIONALITY:
+	- connect your Hardwaredevice e.G. Midikeyboard 
+	- play sounds with computer-mouse or computer-Keyboard
+	- recording, play, save your track.
+	- You can change the octave range
+	
+
+Sharing Songs/ Tracks
+stick together durms and piano
 
 
 🌈 Contribution guidelines - 
