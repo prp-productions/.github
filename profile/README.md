@@ -6,8 +6,9 @@
 
 
 
-🙋‍♀️ A short introduction -Final project for our DCI Web Development Course.  We are building a platform on which users can learn about music by creating their own compositions.  The app will support learning, writing, recording, and file sharing with other users.Online Webapplication to learn and or playing a Synthesizer with different Synthiesounds like: Sine, Saw, Triangle or Squarewaves:
-https://de.wikipedia.org/wiki/Waveform
+🙋‍♀️ A short introduction:
+  -Final project for our DCI Web Development Course.  We are building a platform on which users can learn about music by creating their own compositions.  The app     will support learning, writing, recording, and file sharing with other users.Online Webapplication to learn and or playing a Synthesizer with different         -Synthiesounds like: Sine, Saw, Triangle or Squarewaves:
+                       https://de.wikipedia.org/wiki/Waveform
 
 --> Start the Application with REACT:
 	   Install Node Modules
@@ -17,7 +18,7 @@ https://de.wikipedia.org/wiki/Waveform
 
 ## Midikeyboard
 
-Piano:
+##Piano:
 	- audioContext https://developer.mozilla.org/en-US/docs/Web/API/AudioContext
 	- svg PianoUI
 	- using JS Classes 
@@ -25,7 +26,7 @@ Piano:
 	- injection between JSClasses and functional Components
 	- hooks: useRef, useEffect, useState
 
-Filestructure:
+##Filestructure:
 	- Piano.js is the UI and need some imports:
 		 - ChannelKeyMap.js:
 			ChannelKeyMap is a map with all notes and midisignals.
@@ -36,7 +37,7 @@ Filestructure:
 		 - MidiKeyboard.js:
 		 	Controlling your Hardware Devices and connecting to the Browser
 
-FUNCTIONALITY:
+##FUNCTIONALITY:
 	- connect your Hardwaredevice e.G. Midikeyboard 
 	- play sounds with computer-mouse or computer-Keyboard
 	- recording, play, save your track.
