@@ -18,7 +18,7 @@
 
 ## Midikeyboard
 
-## Piano:
+### Piano:
 	- audioContext https://developer.mozilla.org/en-US/docs/Web/API/AudioContext
 	- svg PianoUI
 	- using JS Classes 
@@ -26,7 +26,7 @@
 	- injection between JSClasses and functional Components
 	- hooks: useRef, useEffect, useState
 
-## Filestructure:
+### Filestructure:
 	--> Piano.js is the UI and need some imports:
 		 - ChannelKeyMap.js:
 			ChannelKeyMap is a map with all notes and midisignals.
@@ -37,7 +37,7 @@
 		 - MidiKeyboard.js:
 		 	Controlling your Hardware Devices and connecting to the Browser
 
- ## Functionality:
+ ### Functionality:
 	- connect your Hardwaredevice e.G. Midikeyboard 
 	- play sounds with computer-mouse or computer-Keyboard
 	- recording, play, save your track.
