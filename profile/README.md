@@ -19,7 +19,7 @@
 
 
 
-# Music Player
+## Music Player
 
 --> creating UI to play music stored in "music folder" using HTML5 audio API
      
