@@ -47,14 +47,9 @@
 Sharing Songs/ Tracks
 stick together durms and piano
 
+## Drumkit: 
+     -->A drum kit for your tablet or phone.. Code for tutorial on how to make a drum kit with JavaScript and Howler using Audio Sprites
 
-🌈 Contribution guidelines - 
-
-
-👩‍💻 Useful resources - 
-
-
-🍿 Fun facts -
 
 
 
@@ -70,6 +65,16 @@ stick together durms and piano
                       -refactoring in classses
                       -refactoring in React
                       -record songs in Drumkit and Piano and play them in Musicplayer
+		      
+
+🌈 Contribution guidelines - 
+
+
+👩‍💻 Useful resources - 
+
+
+🍿 Fun facts -
+		      
                       
 
 
