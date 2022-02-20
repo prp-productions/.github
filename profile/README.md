@@ -48,7 +48,8 @@ Sharing Songs/ Tracks
 stick together durms and piano
 
 ## Drumkit: 
-     -->A drum kit for your tablet or phone.. Code for tutorial on how to make a drum kit with JavaScript and Howler using Audio Sprites
+     -->A drum kit for your tablet or phone.. Code for tutorial on how to make a drum kit with JavaScript
+     and Howler using Audio Sprites
 
 
 
